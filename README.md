@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working at buser.com.br
+- 🔭 I’m currently working at quintoandar.com.br
 - 🌱 I’m currently learning philosophy
 - 📫 How to reach me: @mcbianconi on social 
 
